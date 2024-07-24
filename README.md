@@ -1,4 +1,4 @@
-# vuex
+# pinia
 
 ## Project setup
 ```
